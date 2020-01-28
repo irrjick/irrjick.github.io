@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/irrjick/irrjick.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. Secret info.
 
+Some secret information here.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -22,6 +24,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+**SHo?** _Hiiii_
+`Code text`
 
 [Link](url) and ![Image](src)
 ```
